@@ -22,6 +22,7 @@ namespace Estore.models
            HomeAddress = homeAddress;
            EmailAddress = emailAddress;
            Name = name;
+           
            Password = password;
         }
     }
